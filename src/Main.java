@@ -8,7 +8,7 @@ public class Main {
             System.out.println("Enter values (-1 to stop)");
             int num = sc.nextInt();
             if (num == -1) {
-                break;cd
+                break;
             }
             numbers[index] = num;
             index++;
